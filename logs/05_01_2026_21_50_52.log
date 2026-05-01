@@ -1,0 +1,7 @@
+[ 2026-05-01 21:50:52,487 ] root - INFO - Using dataset: IMDB.csv
+[ 2026-05-01 21:50:52,942 ] root - INFO - Data Ingestion from S3 bucket initialized
+[ 2026-05-01 21:50:52,942 ] root - INFO - Fetching file 'IMDB.csv' from S3 bucket 's3-bucket-sravan'...
+[ 2026-05-01 21:50:56,609 ] root - INFO - Successfully fetched and loaded 'IMDB.csv' from S3 that has 1000 records.
+[ 2026-05-01 21:50:56,609 ] root - INFO - Data loaded from S3: IMDB.csv
+[ 2026-05-01 21:50:56,609 ] root - INFO - pre-processing...
+[ 2026-05-01 21:50:56,609 ] root - INFO - Data preprocessing completed

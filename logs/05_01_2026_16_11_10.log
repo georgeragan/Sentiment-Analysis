@@ -1,0 +1,8 @@
+[ 2026-05-01 16:11:13,296 ] httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-05-01 16:11:13,330 ] dagshub - INFO - Accessing as georgeragan
+[ 2026-05-01 16:11:14,203 ] httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/georgeragan/Sentiment-Analysis "HTTP/1.1 200 OK"
+[ 2026-05-01 16:11:15,137 ] httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-05-01 16:11:15,151 ] dagshub - INFO - Initialized MLflow to track repo "georgeragan/Sentiment-Analysis"
+[ 2026-05-01 16:11:15,157 ] dagshub - INFO - Repository georgeragan/Sentiment-Analysis initialized!
+[ 2026-05-01 16:11:17,940 ] root - ERROR - Error during model registration: Unable to find a logged_model with artifact_path mlflow-artifacts:/c5c1ceaaff254242b08e95500efd5eb7/models/m-c2b180909eec44bb9bc6467d318cab1a/artifacts under run c2c90328c1c64402b69f0334491cfa71
+[ 2026-05-01 16:11:17,940 ] root - ERROR - Failed to complete the model registration process: Unable to find a logged_model with artifact_path mlflow-artifacts:/c5c1ceaaff254242b08e95500efd5eb7/models/m-c2b180909eec44bb9bc6467d318cab1a/artifacts under run c2c90328c1c64402b69f0334491cfa71

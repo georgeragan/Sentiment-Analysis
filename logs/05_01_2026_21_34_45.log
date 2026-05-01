@@ -1,0 +1,7 @@
+[ 2026-05-01 21:34:45,964 ] root - INFO - Using dataset: data.csv
+[ 2026-05-01 21:34:46,548 ] root - INFO - Data Ingestion from S3 bucket initialized
+[ 2026-05-01 21:34:46,548 ] root - INFO - Fetching file 'data.csv' from S3 bucket 's3-bucket-sravan'...
+[ 2026-05-01 21:34:48,969 ] root - INFO - Successfully fetched and loaded 'data.csv' from S3 that has 500 records.
+[ 2026-05-01 21:34:48,969 ] root - INFO - Data loaded from S3: data.csv
+[ 2026-05-01 21:34:48,974 ] root - INFO - pre-processing...
+[ 2026-05-01 21:34:48,974 ] root - INFO - Data preprocessing completed

@@ -1,0 +1,4 @@
+[ 2026-05-01 22:39:47,464 ] root - INFO - data loaded properly
+[ 2026-05-01 22:39:53,530 ] root - INFO - Data pre-processing completed
+[ 2026-05-01 22:39:53,707 ] root - INFO - Data pre-processing completed
+[ 2026-05-01 22:39:53,733 ] root - INFO - Processed data saved to ./data\interim

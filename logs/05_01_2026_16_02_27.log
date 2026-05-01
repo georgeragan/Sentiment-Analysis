@@ -1,0 +1,3 @@
+[ 2026-05-01 16:02:27,555 ] root - INFO - Data loaded from ./data/processed/train_bow.csv
+[ 2026-05-01 16:02:27,566 ] root - INFO - Model training completed
+[ 2026-05-01 16:02:27,575 ] root - INFO - Model saved to models/model.pkl

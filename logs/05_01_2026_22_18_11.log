@@ -1,0 +1,11 @@
+[ 2026-05-01 22:18:13,033 ] httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-05-01 22:18:13,070 ] dagshub - INFO - Accessing as georgeragan
+[ 2026-05-01 22:18:13,977 ] httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/georgeragan/Sentiment-Analysis "HTTP/1.1 200 OK"
+[ 2026-05-01 22:18:14,835 ] httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-05-01 22:18:14,844 ] dagshub - INFO - Initialized MLflow to track repo "georgeragan/Sentiment-Analysis"
+[ 2026-05-01 22:18:14,850 ] dagshub - INFO - Repository georgeragan/Sentiment-Analysis initialized!
+[ 2026-05-01 22:18:17,161 ] root - INFO - Model loaded from ./models/model.pkl
+[ 2026-05-01 22:18:17,183 ] root - INFO - Data loaded from ./data/processed/test_bow.csv
+[ 2026-05-01 22:18:17,200 ] root - INFO - Model evaluation metrics calculated
+[ 2026-05-01 22:18:17,201 ] root - INFO - Metrics saved to reports/metrics.json
+[ 2026-05-01 22:18:49,228 ] root - INFO - Model logged with URI: models:/m-2a471d8d3a9344929ff2c37c793ce924

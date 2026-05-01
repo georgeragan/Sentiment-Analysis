@@ -1,0 +1,18 @@
+cookiecutter
+dagshub
+mlflow
+ipykernel
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+jupyterlab
+pytest
+nltk
+python-dotenv
+xgboost
+boto3
+awscli
+dvc[s3]
+#-e .

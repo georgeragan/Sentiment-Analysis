@@ -1,0 +1,7 @@
+[ 2026-05-01 22:59:18,809 ] httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-05-01 22:59:18,941 ] dagshub - INFO - Accessing as georgeragan
+[ 2026-05-01 22:59:19,716 ] httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/georgeragan/Sentiment-Analysis "HTTP/1.1 200 OK"
+[ 2026-05-01 22:59:20,681 ] httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-05-01 22:59:20,685 ] dagshub - INFO - Initialized MLflow to track repo "georgeragan/Sentiment-Analysis"
+[ 2026-05-01 22:59:20,691 ] dagshub - INFO - Repository georgeragan/Sentiment-Analysis initialized!
+[ 2026-05-01 22:59:20,700 ] root - INFO - Registering model with URI: models:/m-7a3db97de20046ef9c323acea32b57ea
